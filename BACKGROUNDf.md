@@ -21,5 +21,6 @@
     </body>
         <h2>Navigation</h2>
         <a href="README.md">Home Page</a>
+        <a href="ThingsIDof.md">Things I do</a>
 
         
