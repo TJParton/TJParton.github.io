@@ -6,6 +6,20 @@
     </head>
     <h1>Favorite Music</h1>
     <h2>Hello, here is some of my favorite artists and songs!</h2>
+        <p>Some of my favorite artists include:</p>
+    <ul>
+        <li>Kanye West</li>
+        <li>A$AP Rocky</li>
+        <li>Kid Cudi</li>
+        <li>J. Cole</li>
+        <li>Mac Miler</li>
+        <li>Frank Ocean</li>
+        <li>Big Sean</li>
+        <li>Drake</li>
+        <li>Travis Scott</li>
+        <li>Lil Uzi Vert</li>
+    <ul>
+         <p>Some of my favorite songs inclue:</p>
     <table>
       <tr>
           <th>Artist</th>
@@ -51,6 +65,9 @@
           <td>A$AP Rocky</td>
           <td>Kids Turned Out Fine</td>
       <table>
+          <h2>My view on music</h2>
+              <p>I feel as though music is a very important component in most peoples lives. It brings people together and can even help improve someones mood, also, it is a good way to pass time and let loose.</p>
+              <p>Link to positive effects of music: <a href="https://www.openminds.org.au/news/5-positive-effects-music-mental-health">Article</a>
           
     
           
