@@ -68,6 +68,14 @@
           <h2>My view on music</h2>
               <p>I feel as though music is a very important component in most peoples lives. It brings people together and can even help improve someones mood, also, it is a good way to pass time and let loose.</p>
               <p>Link to positive effects of music: <a href="https://www.openminds.org.au/news/5-positive-effects-music-mental-health">Article</a>
+          <h2>My Spotify Playlists</h2>
+          <a href="https://open.spotify.com/playlist/4HxGx2ard66Ry4cTP9jQ8V">Rap Playlist</a>
+          <a href="https://open.spotify.com/playlist/6svaC6lp3W7aRJeVaPtjCf">Chill Playlist</a>
+          <h2>Navigation</h2>
+          <a href="README.md">Home Page</a>
+          <a href="BACKGROUNDf.md">Background</a>
+          <a href="ThingsIDof.md">Things I do</a>
+          
           
     
           
