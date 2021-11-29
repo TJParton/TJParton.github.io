@@ -10,7 +10,6 @@
       These links below are to be used to <i>learn more about me</i>!
     </body>
     <h1>Navigation</h1>
-    
     <a href="BACKGROUNDf.md">Background</a>
     
     
