@@ -20,10 +20,10 @@
     <img src="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/ac/9ac04d8d-d971-5605-b8d7-98b5ddfdd7e0/5d683be40465b.image.jpg" alt="mizzou" />
     </body>
         <h2>Navigation</h2>
-        <a href="README.md">Home Page</a>
-        <a href="ThingsIDof.md">Things I do</a>
-        <a href="FavMusic.md">Favorite Music</a>
-        <a href="FavShow.md">Favorite Show</a>
+        <a href="README.md">|Home Page|</a>
+        <a href="ThingsIDof.md">|Things I do|</a>
+        <a href="FavMusic.md">|Favorite Music|</a>
+        <a href="FavShow.md">|Favorite Show|</a>
 <html>
 
         
