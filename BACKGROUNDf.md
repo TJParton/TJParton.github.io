@@ -24,6 +24,7 @@
         <a href="ThingsIDof.md">|Things I do|</a>
         <a href="FavMusic.md">|Favorite Music|</a>
         <a href="FavShow.md">|Favorite Show|</a>
+        <a href="BlockOfCode.md">|Block Of Code|</a>
 <html>
 
         
