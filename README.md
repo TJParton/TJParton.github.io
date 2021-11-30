@@ -5,7 +5,7 @@
         <meta name='viewport' content='width=device-width, initial-scale=1'>
     </head>
     <h1>Overview</h1>
-    <body>
+    <body style="background-color:powderblue;">
         Hello, I am <b>TJ Parton</b>. I am doing this for my <b>midterm project</b>, so we will see how this goes.
       These links below are to be used to <i>learn more about me</i>!
     </body>
