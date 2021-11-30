@@ -5,7 +5,11 @@
         <meta name='viewport' content='width=device-width, initial-scale=1'>
     </head>
   <h1>Hello, This is some code i did earlier in the semester!</h1>
-  <p>def main():
+    <h2>Purpose</h2>
+  <p>The point of writing this code was to provide experience with writing an interactive Python program that accepts input, performs a calculation, then displays the result as output while handling invalid input from the user. It also provides experience with loops and controlling them based on user input, exceptions, rounding up values, and formatting output.</p>
+
+  <p>At the time when I wrote this I was very proud of myself for being able to do it and I worked very hard to be able to complete the challenge!</p>
+    <p>def main():
     
     pi=3.14159
     while (True):
@@ -54,4 +58,14 @@
     if restart == 'yes':
         main()
     else:
-         exit()</p>
+        exit()
+main()
+</p>
+    
+    
+    
+    
+    
+  <img src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif" />
+
+                                   
